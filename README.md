@@ -18,7 +18,7 @@ String data type is also called text data type, this data type is used to store 
 ### 3. Boolean
 The boolean data type only stores two values; True and False. True values represent true statements, and False values represent false statements.
 
-## Data Structure
+## Python Data Structure
 Python data structures are essentially containers for different kinds of data. The four main types are lists, sets, tuples and dictionaries.
 ### 1. List
 This data type is capable of storing collections of data (objects/values), called list elements. List elements are stored in a certain order(sequence). 
@@ -50,7 +50,7 @@ Division (/) performs division and returns a floating-point number (even if the 
 Exponentiation (**) performs exponentiation.
 ### - Floor Division (//)
 Floor division (//) performs integer division and discards the remainder.
-### - Modulo (5)
+### - Modulo (%)
 Modulo (%) returns the remainder after division.
 
 ## Input and Output
